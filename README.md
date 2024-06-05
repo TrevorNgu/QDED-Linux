@@ -1,1 +1,2 @@
-# QDED-Linux
+# QDED
+Quadrature Disambiguation Edge Detection 
