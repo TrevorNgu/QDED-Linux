@@ -8,4 +8,4 @@ How to use:
 2. Compile with gcc *.c -lm
 3. Run executable
 
-IMPORTANT: Read the note in features.c. This code assumes that all images input will share the same dimension sizes.
+IMPORTANT: Read the note in features.c. This code assumes that all images input will share the same dimension sizes. I did too many changes that it caused a weird error to occur.
